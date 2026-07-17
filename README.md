@@ -39,10 +39,8 @@ CSV Output
 - Regular Expressions
 - Excel Data Processing
 
+
 ## 💡 Project Structure
-
-
-## Project Structure
 
 ```text
 semi-structured-order-etl
