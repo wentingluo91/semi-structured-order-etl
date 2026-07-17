@@ -42,17 +42,19 @@ CSV Output
 ## 💡 Project Structure
 
 
+```text
 semi-structured-order-etl
 │
 ├── semi_structured_order_etl.py
 │
 ├── sample_data
-│ ├── sample_order_standard_01.xlsx
-│ ├── sample_order_standard_02.xlsx
-│ └── ...
+│   ├── sample_order_standard_01.xlsx
+│   ├── sample_order_standard_02.xlsx
+│   └── ...
 │
 └── output
-└── orders.csv
+    └── orders.csv
+```
 
 
 ## 📖 How to Run
