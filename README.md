@@ -42,6 +42,8 @@ CSV Output
 ## 💡 Project Structure
 
 
+## Project Structure
+
 ```text
 semi-structured-order-etl
 │
@@ -55,7 +57,6 @@ semi-structured-order-etl
 └── output
     └── orders.csv
 ```
-
 
 ## 📖 How to Run
 
