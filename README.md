@@ -75,10 +75,7 @@ Data Privacy
 This project is based on a real-world business data processing scenario.
 All company-specific information has been removed and replaced with synthetic sample data for demonstration purposes.
 
-## 👤 Author
-
-**Wenting Luo**
-
+```
 
 ## 👤 Author
 
